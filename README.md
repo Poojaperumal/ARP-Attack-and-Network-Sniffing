@@ -26,20 +26,20 @@ In windows 7 give the command arp -a
 ## OUTPUT:
 
 
+<img width="770" height="562" alt="Screenshot 2026-02-04 141130" src="https://github.com/user-attachments/assets/766901bd-0424-4691-8560-f19b514521e4" />
+
+
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
 
 
- dsniff:
 
 
-
-
-
-
+dsniff:
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
+
 
 
 
